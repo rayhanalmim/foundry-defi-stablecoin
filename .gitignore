@@ -12,5 +12,6 @@ out/
 docs/
 
 # Dotenv file
-.env
 .DS_Store
+config.bat
+node_modules
